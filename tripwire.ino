@@ -7,8 +7,8 @@
 #define BUZZER_PIN 19
 // ##################################################
 // ENTER CORRECT WIFI NAME AND PASSWORD
-const char* WIFI_SSID = "wifi_j";
-const char* WIFI_PASS = "norojegej";
+const char* WIFI_SSID = "wifiname";
+const char* WIFI_PASS = "wifipassword";
 WebServer server(80);
 // ##################################################
 long distance = 0;
